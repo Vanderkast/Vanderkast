@@ -1,3 +1,2 @@
 - Valentine Mazurov aka @Vanderkast
 - Java Developer (backend stack in priority) 
-- Contact me: valentine.mazurov@yandex.ru
